@@ -1,0 +1,19 @@
+condominio-app/
+├── README.md
+├── docs/
+│   ├── requisitos-modulo-documentos.md
+│   └── estrutura-documentos.md
+├── backend/
+│   ├── models/
+│   │   └── documento.js
+│   ├── routes/
+│   │   └── documentos.js
+│   └── services/
+│       └── armazenamento.js
+├── frontend/
+│   └── documentos/
+│       ├── lista-documentos.html
+│       ├── novo-documento.html
+│       └── documentos.js
+└── uploads/
+    └── .gitkeep
